@@ -1,0 +1,2 @@
+# GPUFixerForDirectXGames
+GPUFixerForDirectXGames by RiritoXXL
